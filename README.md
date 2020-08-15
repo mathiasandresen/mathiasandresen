@@ -13,7 +13,7 @@
 
 #### Tools
 
-|[<img src="assets/logos/git.png" alt="git logo" width="24">](https://git-scm.com/)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)|[<img src="assets/logos/wt.png" alt="windows terminal logo" width="24">](https://github.com/microsoft/terminal)| [<img src="assets/logos/powershell.png" alt="powershell logo" width="24">](https://docs.microsoft.com/en-us/powershell/scripting/overview) | [<img src="assets/logos/tux.png" alt="linux logo" width="24">](https://lmgtfy.com/?q=linux) |
+|[<img src="https://raw.githubusercontent.com/mathiasandresen/mathiasandresen/master/assets/logos/git.png" alt="git logo" width="24">](https://git-scm.com/)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)|[<img src="https://raw.githubusercontent.com/mathiasandresen/mathiasandresen/master/assets/logos/wt.png" alt="windows terminal logo" width="24">](https://github.com/microsoft/terminal)| [<img src="https://raw.githubusercontent.com/mathiasandresen/mathiasandresen/master/assets/logos/powershell.png" alt="powershell logo" width="24">](https://docs.microsoft.com/en-us/powershell/scripting/overview) | [<img src="https://raw.githubusercontent.com/mathiasandresen/mathiasandresen/master/assets/logos/tux.png" alt="linux logo" width="24">](https://lmgtfy.com/?q=linux) |
 |------|---|---|---|---|
 
 
