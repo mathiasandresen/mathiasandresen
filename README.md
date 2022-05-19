@@ -15,6 +15,7 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php logo" width="32">](https://www.php.net/)
 [<img src="assets/logos/shopware.png" alt="symfony logo" width="32">](https://www.shopware.com/en/)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" alt="symfony logo" width="32">](https://symfony.com/)
+[<img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="git logo" width="32">](https://svelte.dev/)
 
 
 #### 🔧 Tools
@@ -29,5 +30,5 @@
 
 
 ### 🎓 What am I learning?
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="32">](https://www.rust-lang.org/)
 
-[<img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="git logo" width="32">](https://svelte.dev/)
