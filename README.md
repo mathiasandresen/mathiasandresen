@@ -2,8 +2,6 @@
 ![name](https://img.shields.io/badge/name-mathias%20andresen-blue)
 ![age](https://img.shields.io/endpoint?url=https%3A%2F%2Fprofile-api.vercel.app%2Fapi%2Fme%2Fage)
 [![country](https://img.shields.io/badge/country-denmark-blue)](https://en.wikipedia.org/wiki/Denmark)
-[![student](https://img.shields.io/badge/student-aalborg%20university-blue)](https://www.aau.dk/)
-[![work](https://img.shields.io/badge/student%20developer-wexo-blue)](https://www.wexo.dk/)
 
 ### 🖥 What do I use?
 
